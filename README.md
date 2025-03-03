@@ -20,6 +20,11 @@ The API analyzes text and returns the sentiment (Positive, Negative, Neutral) al
 - **Version Control**: Git
 
 ---
+## **API Documentation**
+
+For a detailed Postman collection, including example requests and responses, visit the following link:
+
+- **Postman Collection**: https://documenter.getpostman.com/view/33677881/2sAYdioVDA
 
 ## **Setup and Installation**
 
